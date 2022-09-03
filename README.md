@@ -33,5 +33,9 @@ Aqui você encontrará os projetos que desenvolvi ou venho desenvolvendo ao long
   ![Snake animation](https://github.com/hari6091/hari6091/blob/output/github-contribution-grid-snake.svg)
  
  
+ <div align="right">
+    <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=hari6091&color=58fe88" alt="alexsgross" />
+ </div>
+ 
 </div>
 
