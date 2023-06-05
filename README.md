@@ -5,7 +5,7 @@ Meu nome é Antonio Hari e amo aprender coisas novas. Como a área de programaç
 Aqui você encontrará os projetos que desenvolvi ou venho desenvolvendo ao longo dos meus estudos. Sinta-se livre para me dar alguma dica ou conselho, será uma honra poder conversar com você!
 
 - 🎓 Cursando Tecnologia em Sistemas para internet no IFRN-CN
-- 🔭 Desenvolvedor Full-Stack na empresa Networks For Good
+- 🔭 Desenvolvedor Frontend na empresa Gamefica
 - 🌱 Focado em dominar ReacJS, React Native e NodeJS
 
 <div align="center">
